@@ -1,7 +1,5 @@
 # 🎬 DVD Rental Store Analysis (Sakila Database)
 
-![Project Banner](https://github.com/yourusername/DVD_Rental_SQL_Analysis/assets/banner-image.png)
-
 ---
 
 ## 📊 Project Overview
