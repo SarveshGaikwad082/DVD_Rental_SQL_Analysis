@@ -81,7 +81,8 @@ Top 10 most rented films show evenly distributed rental counts (31–34 each), i
 Sports, Sci-Fi, and Animation lead with around **7%** of total rentals each.  
 Top five genres capture **35%+** of overall demand.
 
-![Category Revenue Chart](https://github.com/yourusername/DVD_Rental_SQL_Analysis/assets/category-revenue-chart.png)
+<img width="617" height="267" alt="image" src="https://github.com/user-attachments/assets/421217e3-4e14-46a8-a49e-0d892572c26e" />
+
 
 ---
 
