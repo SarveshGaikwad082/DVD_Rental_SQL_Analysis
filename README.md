@@ -104,7 +104,8 @@ Top five genres capture **35%+** of overall demand.
 Rental activity peaked during **July–August 2005** with the highest rentals and payments.  
 Activity dropped by **February 2006**, indicating an **off-season trend**.
 
-![Monthly Rental Trend](https://github.com/yourusername/DVD_Rental_SQL_Analysis/assets/rental-trend.png)
+<img width="479" height="286" alt="image" src="https://github.com/user-attachments/assets/5b244b9d-b8aa-4599-84fb-975c246f7d5e" />
+
 
 ---
 
